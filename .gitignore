@@ -3,3 +3,5 @@
 ################################################################################
 
 /ApiFront/.vs/ApiFront
+/ApiFront/ApiFront/obj
+/ApiFront/ApiFront/bin/Debug/netcoreapp3.1
